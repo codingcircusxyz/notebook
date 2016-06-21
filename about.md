@@ -2,9 +2,6 @@
 
 **Coding Circus è la scuola itinerante per giovani maker e programmatori.**
 
-- Coding Circus è la scuola itinerante dei giovani maker e programmatori.
-- Coding Circus è una scuola itinerante per giovani maker e programmatori.
-
 (*The Coding Circus is the touring school for young coders and makers*).
 
 ## Come funziona?
@@ -29,7 +26,7 @@ Ad un livello più avanzato i ragazzi iniziano ad avvicinarsi al linguaggio di p
 TODO
 
 ## Che cos'è il Pensiero Computazionale
-Il Pensiero Computazionale è l'insieme dei metodi e delle competenze che aiutano bambini ed adulti a spiegare un qualsiasi problema - e ad inventare una soluzione - in una forma che possa essere ripetuta indefinitamente e senza ambiguità da un computer o da un'altra persona (la ricetta di un tiramisù è una forma di pensiero computazionale).
+Il Pensiero Computazionale è l'insieme dei metodi e delle competenze che aiutano bambini ed adulti a spiegare un qualsiasi problema - e ad inventarne una soluzione - in una forma che possa essere ripetuta indefinitamente e senza ambiguità da un computer o da un'altra persona (la ricetta per un tiramisù è una forma di pensiero computazionale).
 Prima di poter usare un computer per risolvere un problema, il problema stesso e il procedimento per risolverlo devono essere analizzati e spiegati. Le metodologie del Pensiero Computazionale aiutano in queste attività.
 
 ("Before computers can be used to solve a problem, the problem itself and the ways in which it could be resolved must be understood. Computational thinking techniques help with these tasks" - http://www.bbc.co.uk/education/guides/zp92mp3/revision)
